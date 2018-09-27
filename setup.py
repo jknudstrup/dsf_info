@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="dsf_info",
+    name="dsfinfo",
     version="0.0.1",
     author="Jim Knudstrup",
     author_email="jim.knudstrup@gmail.com",

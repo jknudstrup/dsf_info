@@ -1,1 +1,1 @@
-name = "dsf_info"
+name = "dsfinfo"
