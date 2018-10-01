@@ -5,10 +5,10 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="dsfinfo",
-    version="0.0.3",
+    version="0.0.4",
     author="Jim Knudstrup",
     author_email="jim.knudstrup@gmail.com",
-    description="Some Data Science Foundations links.",
+    description="Run the info() method to disply Data Science Foundations links.",
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/jknudstrup/dsf_info",
