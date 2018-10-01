@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="dsfinfo",
-    version="0.0.2",
+    version="0.0.3",
     author="Jim Knudstrup",
     author_email="jim.knudstrup@gmail.com",
     description="Some Data Science Foundations links.",
